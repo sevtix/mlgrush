@@ -1,0 +1,8 @@
+name: MLGRush
+author: sevtixdev
+version: 1.0
+main: me.sevtix.mlgrush.Main
+
+commands:
+   mlgrush:
+       description: MLGRush by Sevtix
