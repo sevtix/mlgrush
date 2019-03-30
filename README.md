@@ -9,3 +9,4 @@ Easy Setup:
     Fly to the desired max build height and type /mlgrush setbuildheight
     Place Red wool under the bed of Team Red
     Place Blue wool under the bed of Team Blue
+    Finish!
